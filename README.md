@@ -1,1 +1,1 @@
-# Code-Snippets-REACT
+# Code-Snippets-REACTjs
